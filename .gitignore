@@ -104,5 +104,6 @@ virtualenv/
 # mypy
 .mypy_cache/
 
-# VS Code
+# Editors
 .vscode/
+.idea/
